@@ -1,5 +1,10 @@
 # A Rimworld mod "Yes,Vehicles"
-![](https://github.com/TupiNUMBooR/yes-vehicles/blob/b18/About/Preview.png)
+<p align="center">
+  <img src="https://github.com/TupiNUMBooR/yes-vehicles/blob/b18/About/Preview.png" width="30%"></img>
+</p>
+
+---
+
 [![b18](https://img.shields.io/badge/Steam-Yes,Vehicles_b18-brightgreen.svg)](https://steamcommunity.com/sharedfiles/filedetails/?id=1395815101)
 
 A true implementation of vehicles into RimWorld!
