@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ModMetaData>
-	<name>Yes, Vehicles B19</name>
-	<author>Mason J. Caboose, TupiNUMBooR(b18, b19)</author>
-	<targetVersion>0.19.0</targetVersion>
+	<name>Yes, Vehicles 1.0</name>
+	<author>Mason J. Caboose, TupiNUMBooR(b18, 1.0)</author>
+	<targetVersion>1.0.0</targetVersion>
 	<description>
-
 A true implementation of vehicles into RimWorld!
 
 First off, a big thank you to Jecrell, without him none of you would have this!
