@@ -5,7 +5,10 @@
     <defName>Exterior_Thermometer</defName>
     <label>thermometer</label>
     <hitPoints>1</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <frostbiteVulnerability>0.01</frostbiteVulnerability>
   </BodyPartDef>
 
@@ -13,7 +16,10 @@
     <defName>Tank_Hull</defName>
     <label>body</label>
     <hitPoints>200</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <tags>
       <li>HearingSource</li>
       <li>ConsciousnessSource</li>
@@ -25,7 +31,10 @@
     <defName>Tank_Viewport</defName>
     <label>viewport</label>
     <hitPoints>20</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <tags>
     <li>SightSource</li>
     </tags>
@@ -35,7 +44,10 @@
     <defName>Tank_Turret</defName>
     <label>cabin</label>
     <hitPoints>40</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <tags>
       <li>SightSource</li>
     <li>OperatorSeat</li>
@@ -47,7 +59,10 @@
       <defName>Tank_Mantlet</defName>
       <label>mantlet</label>
       <hitPoints>40</hitPoints>
+      <oldInjuryBaseChance>0</oldInjuryBaseChance>
       <skinCovered>false</skinCovered>
+      <isSolid>true</isSolid>
+      <isAlive>false</isAlive>
       <tags>
         <li>SightSource</li>
       </tags>
@@ -57,7 +72,10 @@
         <defName>Tank_Barrel</defName>
         <label>barrel</label>
         <hitPoints>30</hitPoints>
+        <oldInjuryBaseChance>0</oldInjuryBaseChance>
         <skinCovered>false</skinCovered>
+        <isSolid>true</isSolid>
+        <isAlive>false</isAlive>
         <tags>
           <li>SightSource</li>
         </tags>
@@ -67,7 +85,10 @@
     <defName>Tank_Cupola</defName>
     <label>cupola</label>
     <hitPoints>20</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <tags>
       <li>SightSource</li>
     </tags>
@@ -77,7 +98,10 @@
    <defName>Tank_Engine</defName>
    <label>engine</label>
    <hitPoints>60</hitPoints>
+   <oldInjuryBaseChance>0</oldInjuryBaseChance>
    <skinCovered>false</skinCovered>
+   <isSolid>true</isSolid>
+   <isAlive>false</isAlive>
    <tags>
      <li>BreathingPathway</li>
      <li>EatingPathway</li>
@@ -89,7 +113,10 @@
     <defName>Tank_Transmission</defName>
     <label>transmission</label>
     <hitPoints>60</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <tags>
     <li>ManipulationLimbCore</li>
     </tags>
@@ -99,7 +126,10 @@
    <defName>Fuel_Tanks</defName>
    <label>fuel</label>
    <hitPoints>30</hitPoints>
+   <oldInjuryBaseChance>0</oldInjuryBaseChance>
    <skinCovered>false</skinCovered>
+   <isSolid>true</isSolid>
+   <isAlive>false</isAlive>
    <tags>
      <li>EatingPathway</li>
    </tags>
@@ -109,7 +139,10 @@
   <defName>Tank_TreadsL</defName>
   <label>tread</label>
   <hitPoints>30</hitPoints>
+  <oldInjuryBaseChance>0</oldInjuryBaseChance>
   <skinCovered>false</skinCovered>
+  <isSolid>true</isSolid>
+  <isAlive>false</isAlive>
   <tags>
     <li>MovingLimbCore</li>
   </tags>
@@ -119,7 +152,10 @@
  <defName>Tank_TreadsR</defName>
  <label>tread</label>
  <hitPoints>30</hitPoints>
+ <oldInjuryBaseChance>0</oldInjuryBaseChance>
  <skinCovered>false</skinCovered>
+ <isSolid>true</isSolid>
+ <isAlive>false</isAlive>
  <tags>
    <li>MovingLimbCore</li>
  </tags>

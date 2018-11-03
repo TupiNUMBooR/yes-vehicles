@@ -5,7 +5,10 @@
     <defName>Exterior_Thermometer</defName>
     <label>thermometer</label>
     <hitPoints>1</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <frostbiteVulnerability>0.01</frostbiteVulnerability>
   </BodyPartDef>
 
@@ -13,14 +16,20 @@
     <defName>Truck_Body</defName>
     <label>body</label>
     <hitPoints>70</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
   </BodyPartDef>
 
   <BodyPartDef>
     <defName>Truck_Cabin</defName>
     <label>cabin</label>
     <hitPoints>40</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <tags>
       <li>SightSource</li>
       <li>HearingSource</li>
@@ -34,7 +43,10 @@
    <defName>Truck_Engine</defName>
    <label>engine</label>
    <hitPoints>30</hitPoints>
+   <oldInjuryBaseChance>0</oldInjuryBaseChance>
    <skinCovered>false</skinCovered>
+   <isSolid>true</isSolid>
+   <isAlive>false</isAlive>
    <tags>
      <li>BreathingPathway</li>
      <li>EatingPathway</li>
@@ -46,7 +58,10 @@
     <defName>Truck_Transmission</defName>
     <label>transmission</label>
     <hitPoints>30</hitPoints>
+    <oldInjuryBaseChance>0</oldInjuryBaseChance>
     <skinCovered>false</skinCovered>
+    <isSolid>true</isSolid>
+    <isAlive>false</isAlive>
     <tags>
     <li>ManipulationLimbCore</li>
     </tags>
@@ -56,7 +71,10 @@
    <defName>Fuel_Tanks</defName>
    <label>fuel</label>
    <hitPoints>10</hitPoints>
+   <oldInjuryBaseChance>0</oldInjuryBaseChance>
    <skinCovered>false</skinCovered>
+   <isSolid>true</isSolid>
+   <isAlive>false</isAlive>
    <tags>
      <li>EatingPathway</li>
    </tags>
@@ -66,7 +84,10 @@
   <defName>Wheel_Truck_LFDrive</defName>
   <label>wheel</label>
   <hitPoints>15</hitPoints>
+  <oldInjuryBaseChance>0</oldInjuryBaseChance>
   <skinCovered>false</skinCovered>
+  <isSolid>true</isSolid>
+  <isAlive>false</isAlive>
   <tags>
     <li>MovingLimbCore</li>
   </tags>
@@ -76,7 +97,10 @@
  <defName>Wheel_Truck_RFDrive</defName>
  <label>wheel</label>
  <hitPoints>15</hitPoints>
+ <oldInjuryBaseChance>0</oldInjuryBaseChance>
  <skinCovered>false</skinCovered>
+ <isSolid>true</isSolid>
+ <isAlive>false</isAlive>
  <tags>
    <li>MovingLimbCore</li>
  </tags>
@@ -86,7 +110,10 @@
  <defName>Wheel_Truck_LB</defName>
  <label>wheel</label>
  <hitPoints>15</hitPoints>
+ <oldInjuryBaseChance>0</oldInjuryBaseChance>
  <skinCovered>false</skinCovered>
+ <isSolid>true</isSolid>
+ <isAlive>false</isAlive>
  <tags>
    <li>MovingLimbSegment</li>
  </tags>
@@ -96,7 +123,10 @@
  <defName>Wheel_Truck_RB</defName>
  <label>wheel</label>
  <hitPoints>15</hitPoints>
+ <oldInjuryBaseChance>0</oldInjuryBaseChance>
  <skinCovered>false</skinCovered>
+ <isSolid>true</isSolid>
+ <isAlive>false</isAlive>
  <tags>
    <li>MovingLimbSegment</li>
  </tags>
