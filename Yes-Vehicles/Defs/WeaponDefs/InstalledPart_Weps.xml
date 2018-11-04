@@ -46,7 +46,7 @@
         <compClass>CompQuality</compClass>
       </li>
       <li Class="CompProperties_Art">
-        <nameMaker>ArtName_WeaponGun</nameMaker>
+        <nameMaker>NamerArtWeaponGun</nameMaker>
         <descriptionMaker>ArtDescription_WeaponGun</descriptionMaker>
         <minQualityForArtistic>Excellent</minQualityForArtistic>
       </li>
@@ -211,7 +211,7 @@
       <graphicClass>Graphic_Single</graphicClass>
 			<onGroundRandomRotateAngle>0</onGroundRandomRotateAngle>
     </graphicData>
-    <soundInteract>InteractPistol</soundInteract>
+    <soundInteract>Interact_Autopistol</soundInteract>
     <statBases>
       <Mass>6.85</Mass>
       <MarketValue>3200</MarketValue>
@@ -224,7 +224,7 @@
     <costList>
       <Steel>150</Steel>
       <Plasteel>20</Plasteel>
-      <Component>5</Component>
+      <ComponentIndustrial>5</ComponentIndustrial>
     </costList>
     <verbs>
       <li>
@@ -254,7 +254,7 @@
       <graphicClass>Graphic_Single</graphicClass>
 			<onGroundRandomRotateAngle>0</onGroundRandomRotateAngle>
     </graphicData>
-    <soundInteract>InteractPistol</soundInteract>
+    <soundInteract>Interact_Autopistol</soundInteract>
     <statBases>
       <Mass>7.85</Mass>
       <MarketValue>5200</MarketValue>
@@ -267,7 +267,7 @@
     <costList>
       <Steel>150</Steel>
       <Plasteel>40</Plasteel>
-      <Component>20</Component>
+      <ComponentIndustrial>20</ComponentIndustrial>
     </costList>
     <verbs>
       <li>
@@ -295,7 +295,7 @@
       <graphicClass>Graphic_Single</graphicClass>
 			<onGroundRandomRotateAngle>0</onGroundRandomRotateAngle>
     </graphicData>
-    <soundInteract>InteractPistol</soundInteract>
+    <soundInteract>Interact_Autopistol</soundInteract>
     <statBases>
       <Mass>6.85</Mass>
       <MarketValue>3200</MarketValue>
@@ -307,7 +307,7 @@
     </statBases>
     <costList>
       <Steel>100</Steel>
-      <Component>10</Component>
+      <ComponentIndustrial>10</ComponentIndustrial>
     </costList>
     <verbs>
       <li>

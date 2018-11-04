@@ -31,7 +31,6 @@
         <useVerb>Assemble {0}</useVerb>
         <vehicleToSpawn>Vehicle_Truck</vehicleToSpawn>
         <assemblyTime>20.0</assemblyTime>
-        <workEffect>ConstructMetal</workEffect>
       </li>
     </comps>
     <drawGUIOverlay>false</drawGUIOverlay>
@@ -68,7 +67,6 @@
         <useVerb>Assemble {0}</useVerb>
         <vehicleToSpawn>Vehicle_Tank</vehicleToSpawn>
         <assemblyTime>20.0</assemblyTime>
-        <workEffect>ConstructMetal</workEffect>
       </li>
     </comps>
     <drawGUIOverlay>false</drawGUIOverlay>
@@ -105,7 +103,6 @@
           <useVerb>Assemble {0}</useVerb>
           <vehicleToSpawn>Vehicle_APC</vehicleToSpawn>
           <assemblyTime>20.0</assemblyTime>
-          <workEffect>ConstructMetal</workEffect>
         </li>
       </comps>
       <drawGUIOverlay>false</drawGUIOverlay>

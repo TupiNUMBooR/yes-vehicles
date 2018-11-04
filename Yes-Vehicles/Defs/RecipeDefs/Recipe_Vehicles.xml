@@ -24,7 +24,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>Component</li>
+            <li>ComponentIndustrial</li>
           </thingDefs>
         </filter>
         <count>15</count>
@@ -33,7 +33,7 @@
     <fixedIngredientFilter>
       <thingDefs>
         <li>Steel</li>
-        <li>Component</li>
+        <li>ComponentIndustrial</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -64,7 +64,7 @@
       <li>
         <filter>
           <thingDefs>
-            <li>Component</li>
+            <li>ComponentIndustrial</li>
           </thingDefs>
         </filter>
         <count>20</count>
@@ -73,7 +73,7 @@
     <fixedIngredientFilter>
       <thingDefs>
         <li>Steel</li>
-        <li>Component</li>
+        <li>ComponentIndustrial</li>
       </thingDefs>
     </fixedIngredientFilter>
     <products>
@@ -104,7 +104,7 @@
         <li>
           <filter>
             <thingDefs>
-              <li>Component</li>
+              <li>ComponentIndustrial</li>
             </thingDefs>
           </filter>
           <count>20</count>
@@ -113,7 +113,7 @@
       <fixedIngredientFilter>
         <thingDefs>
           <li>Steel</li>
-          <li>Component</li>
+          <li>ComponentIndustrial</li>
         </thingDefs>
       </fixedIngredientFilter>
       <products>

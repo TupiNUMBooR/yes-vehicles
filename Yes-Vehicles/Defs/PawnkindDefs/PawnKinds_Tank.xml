@@ -32,7 +32,7 @@
         <li>
           <def>MechanoidFullyFormed</def>
           <minAge>0</minAge>
-          <soundWounded>ArtilleryHitThickRoof</soundWounded>
+          <soundWounded>Artillery_HitThickRoof</soundWounded>
           <soundDeath>Explosion_Bomb</soundDeath>
           <soundCall>Vehicle_Idle</soundCall>
         </li>
@@ -51,7 +51,7 @@
     <butcherProducts>
       <Steel>200</Steel>
       <Plasteel>20</Plasteel>
-      <Component>20</Component>
+      <ComponentIndustrial>20</ComponentIndustrial>
     </butcherProducts>
 	<comps>
     <li Class="CompProperties_Flickable"/>

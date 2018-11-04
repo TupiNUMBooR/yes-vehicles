@@ -3,7 +3,7 @@
 
   <RecipeDef>
 		<defName>Vehicle_RepairsTruck</defName>
-		<label>repair truck (50 steel, 1 component)</label>
+		<label>repair truck (50 steel, 1 ComponentIndustrial)</label>
 		<description>Repairs the truck.</description>
 		<workerClass>CompVehicle.Recipe_RepairVehicle</workerClass>
 		<jobString>Repairing truck.</jobString>
@@ -20,7 +20,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>Component</li>
+						<li>ComponentIndustrial</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -29,7 +29,7 @@
 		<fixedIngredientFilter>
       <thingDefs>
 				<li>Steel</li>
-				<li>Component</li>
+				<li>ComponentIndustrial</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 	<effectWorking>Repair</effectWorking>
@@ -37,7 +37,7 @@
 
   <RecipeDef>
 		<defName>Vehicle_RepairsTank</defName>
-		<label>repair tank (100 steel, 10 plasteel, 3 components)</label>
+		<label>repair tank (100 steel, 10 plasteel, 3 ComponentIndustrials)</label>
 		<description>Repairs the tank.</description>
 		<workerClass>CompVehicle.Recipe_RepairVehicle</workerClass>
 		<jobString>Repairing tank.</jobString>
@@ -54,7 +54,7 @@
 			<li>
 				<filter>
 					<thingDefs>
-						<li>Component</li>
+						<li>ComponentIndustrial</li>
 					</thingDefs>
 				</filter>
 				<count>1</count>
@@ -63,7 +63,7 @@
 		<fixedIngredientFilter>
       <thingDefs>
 				<li>Steel</li>
-				<li>Component</li>
+				<li>ComponentIndustrial</li>
 			</thingDefs>
 		</fixedIngredientFilter>
 	<effectWorking>Repair</effectWorking>
