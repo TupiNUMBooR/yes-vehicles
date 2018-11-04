@@ -99,7 +99,7 @@
       <labelInoperable>Inoperable</labelInoperable>
       <labelBroken>Broken</labelBroken>
 		<roles>
-		  <!-- <li>
+		  <li>
 		    <label>operator</label>
   			<labelPlural>operators</labelPlural>
 	  		<handlingTypes>
@@ -109,8 +109,7 @@
 		  	<slots>1</slots>
 		  	<slotsToOperate>1</slotsToOperate>
 		  	<slotTag>DriverSeat</slotTag>
-
-		  </li> -->
+		  </li>
 		  <li>
 		    <label>passenger</label>
 			  <labelPlural>passengers</labelPlural>
