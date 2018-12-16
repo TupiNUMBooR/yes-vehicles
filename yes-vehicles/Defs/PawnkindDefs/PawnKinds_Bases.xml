@@ -19,12 +19,17 @@
       <Flammability>0</Flammability>
       <ComfyTemperatureMin>-100</ComfyTemperatureMin>
       <ComfyTemperatureMax>250</ComfyTemperatureMax>
+      <MeatAmount>0</MeatAmount>
     </statBases>
     <race>
+      <intelligence>ToolUser</intelligence>
+      <thinkTreeMain>ThinkVehicle</thinkTreeMain>
+      <!-- <thinkTreeConstant>ThinkVehicleConstant</thinkTreeConstant> -->
       <fleshType>Mechanoid</fleshType>
       <needsRest>false</needsRest>
       <hasGenders>false</hasGenders>
       <foodType>None</foodType>
+      <lifeExpectancy>2500</lifeExpectancy>
     </race>
     <inspectorTabs>
       <li>ITab_Pawn_Health</li>

@@ -11,20 +11,20 @@
       <CarryingCapacity>100</CarryingCapacity>
       <ArmorRating_Blunt>0.1</ArmorRating_Blunt>
       <ArmorRating_Sharp>0.3</ArmorRating_Sharp>
-      <MeatAmount>0</MeatAmount>
     </statBases>
-    <verbs>
+    <tools>
       <li>
-        <verbClass>Verb_MeleeAttack</verbClass>
-        <defaultCooldownTime>5.00</defaultCooldownTime>
-        <meleeDamageBaseAmount>10</meleeDamageBaseAmount>
-        <meleeDamageDef>Blunt</meleeDamageDef>
+        <label>head</label>
+        <capacities>
+          <li>Blunt</li>
+        </capacities>
+        <power>10</power>
+        <cooldownTime>5</cooldownTime>
+        <ensureLinkedBodyPartsGroupAlwaysUsable>true</ensureLinkedBodyPartsGroupAlwaysUsable>
         <linkedBodyPartsGroup>HeadAttackTool</linkedBodyPartsGroup>
       </li>
-    </verbs>
+    </tools>
     <race>
-      <intelligence>ToolUser</intelligence>
-      <thinkTreeMain>CompVehicle_Simple</thinkTreeMain>
       <body>Truck_Body</body>
       <baseBodySize>1.0</baseBodySize>
       <baseHealthScale>10.0</baseHealthScale>

@@ -3,7 +3,7 @@
         "Yes, Vehicles" b18-b19 mod for RimWorld
     </description>
 
-    <property name="src" location="Yes-Vehicles"/>
+    <property name="src" location="${ant.project.name}"/>
     <property name="dist" location="dist"/>
     <property name="mods" location="/home/keller/.steam/steam/steamapps/common/RimWorld/Mods"/>
 
